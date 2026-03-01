@@ -17,3 +17,6 @@ vendor/
 .idea/
 .vscode/
 .DS_Store
+
+# Local planning assets
+openteam/
